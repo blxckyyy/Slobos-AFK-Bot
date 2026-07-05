@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 180,
       "messages": [
         "Se ni' mondo esistesse un po' di bene e ognun si considerasse suo fratello ci sarebbe meno pensieri e meno pene e il mondo ne sarebbe assai più bello!",
         "Ragazzi, io non ci sono mai stato, questa è la mia primissima volta in Sardegna!",
@@ -69,8 +69,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
