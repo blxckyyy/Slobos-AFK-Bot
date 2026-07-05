@@ -8,7 +8,7 @@
   "server": {
     "ip": "node-fi-free-05.tickhosting.com:41437",
     "port": 41437,
-    "version": "26.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
